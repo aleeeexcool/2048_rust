@@ -7,8 +7,6 @@ How to play
 -----------
 Use arrow key to move tiles.
 
-![alt tag](./rust-2048.png)
-
 ## Building Instructions
 
 To build this repository, you need [Cargo](https://github.com/rust-lang/cargo).
