@@ -17,7 +17,7 @@ Look at [Piston-Tutorials - Installing Dependencies](https://github.com/PistonDe
 
 Clone this repository
 ```
-git clone https://github.com/Coeuvre/rust-2048.git
+git clone https://github.com/aleeeexcool/2048_rust.git
 ```
 
 Use Cargo to build
